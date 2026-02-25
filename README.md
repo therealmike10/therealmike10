@@ -3,18 +3,18 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Light&size=32&pause=1000&color=ffffffff&center=true&vCenter=true&width=500&lines=Data+Analysis+for+Relevant+Insights;Passionate+About+the+World+of+Data;Ph.D.+in+Chemical+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Light&size=23&pause=1000&color=ffffffff&center=true&vCenter=true&width=500&lines=Data+Analysis+for+Relevant+Insights;Passionate+About+the+World+of+Data;Ph.D.+in+Chemical+Engineering" alt="Typing SVG" />
 </div>
 <br>
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-encinas-gimenez/"><img src="https://skillicons.dev/icons?i=linkedin" height="60"></a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://youtube.com/your-channel-url"><img src="https://cdn.simpleicons.org/googlescholar/ffffff" height="60"></a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://orcid.org/0000-0003-0365-351X"><img src="https://cdn.simpleicons.org/orcid/ffffff" height="60"></a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="mailto:miguelencinas24@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ffffff" height="60"></a>
+  <a href="https://www.linkedin.com/in/miguel-encinas-gimenez/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://scholar.google.es/citations?user=wkeOJE4AAAAJ&hl=en&oi=ao"><img src="https://cdn.simpleicons.org/googlescholar" height="45"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://orcid.org/0000-0003-0365-351X"><img src="https://cdn.simpleicons.org/orcid" height="45"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="mailto:miguelencinas24@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="45"></a>
 </p>
 
 
