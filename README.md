@@ -1,11 +1,10 @@
-## Hi there! I'm Miguel Encinas 👋
+# Hi there! I'm Miguel Encinas 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Light&size=23&pause=1000&color=ffffffff&center=true&vCenter=true&width=500&lines=Data+Analysis+for+Relevant+Insights;Passionate+About+the+World+of+Data;Ph.D.+in+Chemical+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=sf+pro+text+light&size=23&pause=1000&color=ffffffff&center=true&vCenter=true&width=500&lines=Data+Analysis+for+Relevant+Insights;Passionate+About+the+World+of+Data;Ph.D.+in+Chemical+Engineering" alt="Typing SVG" />
 </div>
-<br>
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-encinas-gimenez/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
@@ -19,49 +18,40 @@
 
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am 29, and I am a **Ph.D. in Chemical Engineering** by the University of Zaragoza, with more than **5 years** of experience in the academic research.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+The main goal of my Ph.D. thesis was the development of strategies that could **face tumoral growth**, using nanomaterials with catalytic activities to this end. We also deepened in the study of their **specific delivery to the tumoral mass**. 
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+At this moment, I am shifting my career towards a role in **Data/Bussiness Analysis**. Therefore, I am learning and training my skills in Phtyon and SQL with relevant, real-world data.
+
+I currently possess the **IBM Data Science Professional Certificate** by IBM and Coursera, where I have strengthened my foundations in several aspects of data analysis, such as Python programming, machine learning or data visualization. 
+
+Throughout this programme, I became familiar with essential Python libraries, including **NumPy, Pandas, Seaborn, Matplotlib or Scikit-learn.**
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Website](https://miguel-encinas-gimenez.notion.site/cv)
+### [🌐 Check Out My Full Website](https://miguel-encinas-gimenez.notion.site/cv)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300):** Currently implementing my domain with PowerBI to obtain the Microsoft PL-300 certification.
+- **CDC BRFSS dataset:** Analysis of the Behavioral Risk Factor Surveillance System (US CDC | https://www.cdc.gov/brfss) to analyze the influence of lifestyle factors in cardiovascular disease risk.
+- **Hospital Readmissions (CMS):** Exploratoyr Data Analysis and Machine Learning to determine which factors have a higher weight for hospital readmissions prediction.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
+- PowerBI
+- Advanced SQL
+- Advanced data visualization with Python
+  
 ## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://skillicons.dev/icons?i=python" height="60" />
+  &nbsp; &nbsp; &nbsp;
+  <a title="alaa kaddour, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.png"><img height="60" alt="Sql data base with logo" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641"></a>
+  &nbsp; &nbsp; &nbsp;
+  <a title="Marc Garcia, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg"><img height="60" alt="Pandas logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/120px-Pandas_mark.svg.png"></a>
+  &nbsp; &nbsp; &nbsp;
+  <a title="Isabela Presedo-Floyd, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg"><img height="60" alt="NumPy logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/120px-NumPy_logo_2020.svg.png?20251223090330"></a>
 </p>
