@@ -3,15 +3,20 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Passionate+About+the+World+of+Data;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Light&size=32&pause=1000&color=ffffffff&center=true&vCenter=true&width=500&lines=Data+Analysis+for+Relevant+Insights;Passionate+About+the+World+of+Data;Ph.D.+in+Chemical+Engineering" alt="Typing SVG" />
 </div>
-
+<br>
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/miguel-encinas-gimenez/"><img src="https://skillicons.dev/icons?i=linkedin" height="60"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://youtube.com/your-channel-url"><img src="https://cdn.simpleicons.org/googlescholar/ffffff" height="60"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://orcid.org/0000-0003-0365-351X"><img src="https://cdn.simpleicons.org/orcid/ffffff" height="60"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="mailto:miguelencinas24@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ffffff" height="60"></a>
 </p>
+
 
 ## 🚀 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
@@ -21,7 +26,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Website](https://miguel-encinas-gimenez.notion.site/cv)
       
 ## 🔭 What I'm Currently Working On 
 
