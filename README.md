@@ -36,7 +36,7 @@ At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevan
 ## 🔭 What I'm Currently Working On 
 
 - **Microsoft Certified: Power BI Data Analyst Associate (PL-300):** Currently implementing my domain with PowerBI to obtain the Microsoft PL-300 certification.
-- **Diabetes State Burden Toolkit:**: Analysisof the diabetes mortality statistics in the different states of the US ([HealthData.gov](https://healthdata.gov/CDC/Diabetes-State-Burden-Toolkit-Diabetes-Mortality-a/sdwd-7esj/about_data))
+- **Diabetes State Burden Toolkit:** Analysisof the diabetes mortality statistics in the different states of the US ([HealthData.gov](https://healthdata.gov/CDC/Diabetes-State-Burden-Toolkit-Diabetes-Mortality-a/sdwd-7esj/about_data))
 - **CDC BRFSS dataset:** Analysis of the Behavioral Risk Factor Surveillance System ([US CDC](https://www.cdc.gov/brfss)) to analyze the influence of lifestyle factors in cardiovascular disease risk.
 - **Hospital Readmissions (CMS):** Exploratoyr Data Analysis and Machine Learning to determine which factors have a higher weight for hospital readmissions prediction.
 
