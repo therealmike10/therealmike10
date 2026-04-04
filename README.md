@@ -18,15 +18,17 @@
 
 
 ## 🚀 About Me 
-I am 29, and I am a **Ph.D. in Chemical Engineering** by the University of Zaragoza, with more than **5 years** of experience in the academic research.
+I am 29, and I am a **Ph.D. in Chemical Engineering** by the University of Zaragoza, with more than **5 years** of experience working with data in the academic research.
 
 The main goal of my Ph.D. thesis was the development of strategies that could **face tumoral growth**, using nanomaterials with catalytic activities to this end. We also deepened in the study of their **specific delivery to the tumoral mass**. 
 
-At this moment, I am shifting my career towards a role in **Data/Bussiness Analysis**. Therefore, I am learning and training my skills in Phtyon and SQL with relevant, real-world data.
+Due to this, I had to clean, analyze and visualize **complex datasets**, aiming to generate relevant insights to drive forward several research projects. To this end, I developed strong expertis using **Excel** and **GraphPad Prism**
 
 I currently possess the **IBM Data Science Professional Certificate** by IBM and Coursera, where I have strengthened my foundations in several aspects of data analysis, such as Python programming, machine learning or data visualization. 
 
 Throughout this programme, I became familiar with essential Python libraries, including **NumPy, Pandas, Seaborn, Matplotlib or Scikit-learn.**
+
+At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevant, real-world data, aiming to shift my career towards a role in **Data/Bussiness Analysis**.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🌐 Check Out My Full Website](https://miguel-encinas-gimenez.notion.site/cv)
