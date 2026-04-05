@@ -71,7 +71,7 @@ At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevan
 <p>
   <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img height="60" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
-  <a title="Matthias Buissonnier, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Logo-seaborn.png"><img height="60" alt="Logo of the Python library Seaborn" src="https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png"></a>
+  <a title="Seaborn, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Logo-wide-lightbg_(1).svg"><img height="60" alt="Seaborn&#039;s logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo-wide-lightbg_%281%29.svg/960px-Logo-wide-lightbg_%281%29.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
   <a title="Matplotlib, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Created_with_Matplotlib-logo.svg"><img height="60" alt="Created with Matplotlib-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/250px-Created_with_Matplotlib-logo.svg.png"></a>  
 </p>
