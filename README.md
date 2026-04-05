@@ -46,7 +46,7 @@ At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevan
   
 ## 🛠️ Technical Skillset
 
-#### Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="60" />
   &nbsp; &nbsp; &nbsp;
@@ -54,7 +54,7 @@ At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevan
   &nbsp; &nbsp; &nbsp;
 </p>
 
-#### Data Analysis Tools
+### Data Analysis Tools
 <p>
    <a title="Microsoft, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg"><img  height="60" alt="Microsoft Office Excel (2025–present)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/500px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
@@ -67,7 +67,7 @@ At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevan
   <a title="Marc Garcia, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg"><img height="60" alt="Pandas logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/960px-Pandas_logo.svg.png"></a>
 </p>
 
-#### Data Visualization Tools
+### Data Visualization Tools
 <p>
   <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img height="60" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
