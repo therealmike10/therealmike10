@@ -60,7 +60,7 @@ At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevan
   &nbsp; &nbsp; &nbsp;
   <a title="Google, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Google_Sheets_2020_Logo.svg"><img  height="60" alt="Google Sheets 2020 Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/500px-Google_Sheets_2020_Logo.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
-  <a title="Marc Garcia, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg"><img height="60" alt="Pandas logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/120px-Pandas_mark.svg.png"></a>
+  <a title="Michael Droettboom, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pandas_logo.png"><img height="60" alt="Pandas logo" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Pandas_logo.png"></a>
   &nbsp; &nbsp; &nbsp;
   <a title="Isabela Presedo-Floyd, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg"><img height="60" alt="NumPy logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/120px-NumPy_logo_2020.svg.png?20251223090330"></a>
   &nbsp; &nbsp; &nbsp;
