@@ -64,7 +64,7 @@ At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevan
   &nbsp; &nbsp; &nbsp;
   <a title="The scikit-learn developers, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg"><img height="60" alt="Logo of the scikit-learn Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-    Scikit_learn_logo_small.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
-  <a title="Michael Droettboom, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pandas_logo.png"><img height="60" alt="Pandas logo" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Pandas_logo.png"></a>
+  <a title="Marc Garcia, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg"><img height="60" alt="Pandas logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/960px-Pandas_logo.svg.png"></a>
 </p>
 
 #### Data Visualization Tools
