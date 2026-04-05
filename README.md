@@ -56,22 +56,22 @@ At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevan
 
 #### Data Analysis Tools
 <p>
-   <a title="Microsoft, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg"><img width="500" alt="Microsoft Office Excel (2025–present)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/500px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png"></a>
+   <a title="Microsoft, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg"><img  height="60" alt="Microsoft Office Excel (2025–present)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/500px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
-  <a title="Google, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Google_Sheets_2020_Logo.svg"><img width="500" alt="Google Sheets 2020 Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/500px-Google_Sheets_2020_Logo.svg.png"></a>
+  <a title="Google, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Google_Sheets_2020_Logo.svg"><img  height="60" alt="Google Sheets 2020 Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/500px-Google_Sheets_2020_Logo.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
   <a title="Marc Garcia, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg"><img height="60" alt="Pandas logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/120px-Pandas_mark.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
   <a title="Isabela Presedo-Floyd, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg"><img height="60" alt="NumPy logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/120px-NumPy_logo_2020.svg.png?20251223090330"></a>
   &nbsp; &nbsp; &nbsp;
-  <a title="The scikit-learn developers, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg"><img width="330" alt="Logo of the scikit-learn Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-    Scikit_learn_logo_small.svg.png"></a>
+  <a title="The scikit-learn developers, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg"><img height="60" alt="Logo of the scikit-learn Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-    Scikit_learn_logo_small.svg.png"></a>
 </p>
 
 #### Data Visualization Tools
 <p>
-  <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img width="960" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png"></a>
+  <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img height="60" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png"></a>
   &nbsp; &nbsp; &nbsp;
-  <a title="Matthias Buissonnier, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Logo-seaborn.png"><img width="0" alt="Logo of the Python library Seaborn" src="https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png"></a>
+  <a title="Matthias Buissonnier, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Logo-seaborn.png"><img height="60" alt="Logo of the Python library Seaborn" src="https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png"></a>
   &nbsp; &nbsp; &nbsp;
-  <a title="Matplotlib, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Created_with_Matplotlib-logo.svg"><img width="250" alt="Created with Matplotlib-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/250px-Created_with_Matplotlib-logo.svg.png"></a>  
+  <a title="Matplotlib, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Created_with_Matplotlib-logo.svg"><img height="60" alt="Created with Matplotlib-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/250px-Created_with_Matplotlib-logo.svg.png"></a>  
 </p>
