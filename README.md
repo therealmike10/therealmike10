@@ -29,7 +29,7 @@ I currently possess the **IBM Data Science Professional Certificate** by IBM and
 At this moment, I am  training my skills in Phtyon, PowerBI and SQL with relevant, real-world data, aiming to shift my career towards a role in **Data/Bussiness Analysis**.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🌐 Check Out My Full Website](https://miguel-encinas-gimenez.notion.site/cv)
+### [🌐 Check Out My Full Website](https://therealmike10.github.io/my-website/)
       
 ## 🔭 What I'm Currently Working On 
 
